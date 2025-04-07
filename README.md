@@ -63,10 +63,6 @@ O configurarse como tarea programada en Windows usando el archivo .bat incluido:
 ejecutar_cripto_bot.bat
 ```
 
-## 📷 Demo
-
-![Demo](https://i.imgur.com/example.png)
-
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Si tienes alguna idea para mejorar este bot, por favor:
@@ -83,7 +79,7 @@ Distribuido bajo la licencia MIT. Consulta `LICENSE` para obtener más informaci
 
 ## 📬 Contacto
 
-Alexis Campomanes - [@tu_twitter](https://twitter.com/tu_usuario)
+Alexis Campomanes - [@alexiscp29](https://twitter.com/alexiscp29)
 
 Enlace del proyecto: [https://github.com/Alexis-Campomanes/bots_crypto](https://github.com/Alexis-Campomanes/bots_crypto)
 
