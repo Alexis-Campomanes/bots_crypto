@@ -5,7 +5,7 @@ import telebot
 from datetime import datetime
 
 # Configuración del bot de Telegram
-BOT_TOKEN = 'inser_code' 
+BOT_TOKEN = 'insert_code' 
 CHAT_ID = 'chat_id'  
 
 # Inicializar el bot
